@@ -1,6 +1,6 @@
 
 > taskbox@0.2.0 build-storybook
-> ng run taskbox:build-storybook --output-dir /var/folders/rg/xzthppj12yg94g8qtnsd1byr0000gp/T/chromatic--8302-XQBYFYA1Y9b8
+> ng run taskbox:build-storybook --output-dir /var/folders/rg/xzthppj12yg94g8qtnsd1byr0000gp/T/chromatic--11189-hv4ork03f3Jo
 
 [0m
 [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
@@ -25,206 +25,206 @@ Node.js version : v18.20.0
 
 Operating system : macOS Unknown
 
-[15:30:06] No configuration file found, switching to CLI flags.
-[15:30:06] Using tsconfig file : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/.storybook/tsconfig.json
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/.storybook/preview.ts
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/favicon.ico
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/index.html
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/main.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/polyfills.ts
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/styles.css
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/environments/environment.prod.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/environments/environment.ts
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.component.css
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.component.html
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.component.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.module.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Button.stories.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Header.stories.ts
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Introduction.mdx
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Page.stories.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/User.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/button.component.ts
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/button.css
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/header.component.ts
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/header.css
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/page.component.ts
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/page.css
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/inbox-screen.component.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-inbox-screen.component.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-inbox-screen.stories.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-task-list.component.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-task-list.stories.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task-list.component.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.component.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.module.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.stories.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/state/task.state.ts
-[15:30:06] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/models/task.model.ts
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Light-webfont.eot
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Light-webfont.svg
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Light-webfont.woff
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/icon/percolate.eot
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/icon/percolate.svg
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/icon/percolate.ttf
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/icon/percolate.woff
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/code-brackets.svg
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/colors.svg
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/comments.svg
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/direction.svg
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/flow.svg
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/plugin.svg
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/repo.svg
-[15:30:06] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/stackalt.svg
-[15:30:06] Searching package.json file
-[15:30:06] package.json file found
-[15:30:06] Processing package.json dependencies
-[15:30:06] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
-[15:30:06] README.md file found
-[15:30:06] Error during /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/CHANGELOG read
-[15:30:06] Continuing without CHANGELOG.md file
-[15:30:06] Error during /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/CONTRIBUTING read
-[15:30:06] Continuing without CONTRIBUTING.md file
-[15:30:06] LICENSE.md file found
-[15:30:06] Error during /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/TODO read
-[15:30:06] Continuing without TODO.md file
-[15:30:06] Get dependencies data
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/.storybook/preview.ts
-[15:30:06] found          : preview
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/main.ts
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/polyfills.ts
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/environments/environment.prod.ts
-[15:30:06] found          : environment
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/environments/environment.ts
-[15:30:06] found          : environment
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.component.ts
-[15:30:06] found          : AppComponent
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.module.ts
-[15:30:06] found          : AppModule
-[15:30:06]                : - imports:
-[15:30:06]                : 	- BrowserModule
-[15:30:06]                : 	- TaskModule
-[15:30:06]                : 	- NgxsModule
-[15:30:06]                : 	- NgxsReduxDevtoolsPluginModule
-[15:30:06]                : 	- NgxsLoggerPluginModule
-[15:30:06]                : - declarations:
-[15:30:06]                : 	- AppComponent
-[15:30:06]                : 	- InboxScreenComponent
-[15:30:06]                : 	- PureInboxScreenComponent
-[15:30:06]                : - bootstrap:
-[15:30:06]                : 	- AppComponent
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Button.stories.ts
-[15:30:06] found          : meta
-[15:30:06] found          : Story
-[15:30:06] found          : Primary
-[15:30:06] found          : Secondary
-[15:30:06] found          : Large
-[15:30:06] found          : Small
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Header.stories.ts
-[15:30:06] found          : meta
-[15:30:06] found          : Story
-[15:30:06] found          : LoggedIn
-[15:30:06] found          : LoggedOut
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Page.stories.ts
-[15:30:06] found          : meta
-[15:30:06] found          : Story
-[15:30:06] found          : LoggedOut
-[15:30:06] found          : LoggedIn
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/User.ts
-[15:30:06] found          : User
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/button.component.ts
-[15:30:06] found          : ButtonComponent
-[15:30:06]                : - imports:
-[15:30:06]                : 	- CommonModule
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/header.component.ts
-[15:30:06] found          : HeaderComponent
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/page.component.ts
-[15:30:06] found          : PageComponent
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/inbox-screen.component.ts
-[15:30:06] found          : InboxScreenComponent
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-inbox-screen.component.ts
-[15:30:06] found          : PureInboxScreenComponent
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-inbox-screen.stories.ts
-[15:30:06] found          : meta
-[15:30:06] found          : Story
-[15:30:06] found          : Default
-[15:30:06] found          : Error
-[15:30:06] found          : WithInteractions
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-task-list.component.ts
-[15:30:06] found          : PureTaskListComponent
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-task-list.stories.ts
-[15:30:06] found          : meta
-[15:30:06] found          : Story
-[15:30:06] found          : Default
-[15:30:06] found          : WithPinnedTasks
-[15:30:06] found          : Loading
-[15:30:06] found          : Empty
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task-list.component.ts
-[15:30:06] found          : TaskListComponent
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.component.ts
-[15:30:06] found          : TaskComponent
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.module.ts
-[15:30:06] found          : TaskModule
-[15:30:06]                : - imports:
-[15:30:06]                : 	- CommonModule
-[15:30:06]                : 	- NgxsModule
-[15:30:06]                : - exports:
-[15:30:06]                : 	- TaskComponent
-[15:30:06]                : 	- TaskListComponent
-[15:30:06]                : - declarations:
-[15:30:06]                : 	- TaskComponent
-[15:30:06]                : 	- TaskListComponent
-[15:30:06]                : 	- PureTaskListComponent
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.stories.ts
-[15:30:06] found          : actionsData
-[15:30:06] found          : meta
-[15:30:06] found          : Story
-[15:30:06] found          : Default
-[15:30:06] found          : Pinned
-[15:30:06] found          : Archived
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/state/task.state.ts
-[15:30:06] found          : actions
-[15:30:06] found          : ArchiveTask
-[15:30:06] found          : PinTask
-[15:30:06] found          : AppError
-[15:30:06] found          : defaultTasks
-[15:30:06] found          : TaskStateModel
-[15:30:06] found          : TasksState
-[15:30:06] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/models/task.model.ts
-[15:30:06] found          : Task
-[15:30:06] -------------------
-[15:30:06] Project statistics 
-[15:30:06] - files      : 26
-[15:30:06] - module     : 2
-[15:30:06] - component  : 9
-[15:30:06] - injectable : 1
-[15:30:06] - class      : 3
-[15:30:06] - interface  : 3
-[15:30:06] -------------------
-[15:30:06] Prepare components
-[15:30:06]  ButtonComponent has styleUrls, include them
-[15:30:06]  HeaderComponent has styleUrls, include them
-[15:30:06]  PageComponent has styleUrls, include them
-[15:30:06] Prepare modules
-[15:30:06] Prepare injectables
-[15:30:06] Prepare classes
-[15:30:06] Prepare interfaces
-[15:30:06] Prepare miscellaneous
-[15:30:06] Process documentation coverage report
-[15:30:06] Generating documentation in export format json
-[15:30:06] Documentation generated in ./ in 2.153 seconds
-info => Cleaning outputDir: /var/folders/rg/xzthppj12yg94g8qtnsd1byr0000gp/T/chromatic--8302-XQBYFYA1Y9b8
+[15:47:08] No configuration file found, switching to CLI flags.
+[15:47:08] Using tsconfig file : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/.storybook/tsconfig.json
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/.storybook/preview.ts
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/favicon.ico
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/index.html
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/main.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/polyfills.ts
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/styles.css
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.component.css
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.component.html
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.component.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.module.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/environments/environment.prod.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/environments/environment.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Button.stories.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Header.stories.ts
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Introduction.mdx
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Page.stories.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/User.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/button.component.ts
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/button.css
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/header.component.ts
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/header.css
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/page.component.ts
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/page.css
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Light-webfont.eot
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Light-webfont.svg
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Light-webfont.woff
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/icon/percolate.eot
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/icon/percolate.svg
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/icon/percolate.ttf
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/assets/icon/percolate.woff
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/inbox-screen.component.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-inbox-screen.component.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-task-list.component.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-task-list.stories.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task-list.component.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.component.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.module.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.stories.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/models/task.model.ts
+[15:47:08] Including      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/state/task.state.ts
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/code-brackets.svg
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/colors.svg
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/comments.svg
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/direction.svg
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/flow.svg
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/plugin.svg
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/repo.svg
+[15:47:08] Excluding      : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/assets/stackalt.svg
+[15:47:08] Searching package.json file
+[15:47:08] package.json file found
+[15:47:08] Processing package.json dependencies
+[15:47:08] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[15:47:08] README.md file found
+[15:47:08] Error during /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/CHANGELOG read
+[15:47:08] Continuing without CHANGELOG.md file
+[15:47:08] Error during /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/CONTRIBUTING read
+[15:47:08] Continuing without CONTRIBUTING.md file
+[15:47:08] LICENSE.md file found
+[15:47:08] Error during /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/TODO read
+[15:47:08] Continuing without TODO.md file
+[15:47:08] Get dependencies data
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/.storybook/preview.ts
+[15:47:09] found          : preview
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/main.ts
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/polyfills.ts
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.component.ts
+[15:47:09] found          : AppComponent
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/app.module.ts
+[15:47:09] found          : AppModule
+[15:47:09]                : - imports:
+[15:47:09]                : 	- BrowserModule
+[15:47:09]                : 	- TaskModule
+[15:47:09]                : 	- NgxsModule
+[15:47:09]                : 	- NgxsReduxDevtoolsPluginModule
+[15:47:09]                : 	- NgxsLoggerPluginModule
+[15:47:09]                : - declarations:
+[15:47:09]                : 	- AppComponent
+[15:47:09]                : 	- InboxScreenComponent
+[15:47:09]                : 	- PureInboxScreenComponent
+[15:47:09]                : - bootstrap:
+[15:47:09]                : 	- AppComponent
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/environments/environment.prod.ts
+[15:47:09] found          : environment
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/environments/environment.ts
+[15:47:09] found          : environment
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Button.stories.ts
+[15:47:09] found          : meta
+[15:47:09] found          : Story
+[15:47:09] found          : Primary
+[15:47:09] found          : Secondary
+[15:47:09] found          : Large
+[15:47:09] found          : Small
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Header.stories.ts
+[15:47:09] found          : meta
+[15:47:09] found          : Story
+[15:47:09] found          : LoggedIn
+[15:47:09] found          : LoggedOut
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/Page.stories.ts
+[15:47:09] found          : meta
+[15:47:09] found          : Story
+[15:47:09] found          : LoggedOut
+[15:47:09] found          : LoggedIn
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/User.ts
+[15:47:09] found          : User
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/button.component.ts
+[15:47:09] found          : ButtonComponent
+[15:47:09]                : - imports:
+[15:47:09]                : 	- CommonModule
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/header.component.ts
+[15:47:09] found          : HeaderComponent
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/stories/page.component.ts
+[15:47:09] found          : PageComponent
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/inbox-screen.component.ts
+[15:47:09] found          : InboxScreenComponent
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-inbox-screen.component.ts
+[15:47:09] found          : PureInboxScreenComponent
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[15:47:09] found          : meta
+[15:47:09] found          : Story
+[15:47:09] found          : Default
+[15:47:09] found          : Error
+[15:47:09] found          : WithInteractions
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-task-list.component.ts
+[15:47:09] found          : PureTaskListComponent
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/pure-task-list.stories.ts
+[15:47:09] found          : meta
+[15:47:09] found          : Story
+[15:47:09] found          : Default
+[15:47:09] found          : WithPinnedTasks
+[15:47:09] found          : Loading
+[15:47:09] found          : Empty
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task-list.component.ts
+[15:47:09] found          : TaskListComponent
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.component.ts
+[15:47:09] found          : TaskComponent
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.module.ts
+[15:47:09] found          : TaskModule
+[15:47:09]                : - imports:
+[15:47:09]                : 	- CommonModule
+[15:47:09]                : 	- NgxsModule
+[15:47:09]                : - exports:
+[15:47:09]                : 	- TaskComponent
+[15:47:09]                : 	- TaskListComponent
+[15:47:09]                : - declarations:
+[15:47:09]                : 	- TaskComponent
+[15:47:09]                : 	- TaskListComponent
+[15:47:09]                : 	- PureTaskListComponent
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/components/task.stories.ts
+[15:47:09] found          : actionsData
+[15:47:09] found          : meta
+[15:47:09] found          : Story
+[15:47:09] found          : Default
+[15:47:09] found          : Pinned
+[15:47:09] found          : Archived
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/models/task.model.ts
+[15:47:09] found          : Task
+[15:47:09] parsing        : /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/src/app/state/task.state.ts
+[15:47:09] found          : actions
+[15:47:09] found          : ArchiveTask
+[15:47:09] found          : PinTask
+[15:47:09] found          : AppError
+[15:47:09] found          : defaultTasks
+[15:47:09] found          : TaskStateModel
+[15:47:09] found          : TasksState
+[15:47:09] -------------------
+[15:47:09] Project statistics 
+[15:47:09] - files      : 26
+[15:47:09] - module     : 2
+[15:47:09] - component  : 9
+[15:47:09] - injectable : 1
+[15:47:09] - class      : 3
+[15:47:09] - interface  : 3
+[15:47:09] -------------------
+[15:47:09] Prepare components
+[15:47:09]  ButtonComponent has styleUrls, include them
+[15:47:09]  HeaderComponent has styleUrls, include them
+[15:47:09]  PageComponent has styleUrls, include them
+[15:47:09] Prepare modules
+[15:47:09] Prepare injectables
+[15:47:09] Prepare classes
+[15:47:09] Prepare interfaces
+[15:47:09] Prepare miscellaneous
+[15:47:09] Process documentation coverage report
+[15:47:09] Generating documentation in export format json
+[15:47:09] Documentation generated in ./ in 2.673 seconds
+info => Cleaning outputDir: /var/folders/rg/xzthppj12yg94g8qtnsd1byr0000gp/T/chromatic--11189-hv4ork03f3Jo
 
 info => Loading presets
 info => Building manager..
-info => Manager built (4.34 s)
+info => Manager built (3.47 s)
 info => Building preview..
-info => Copying static files: /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/node_modules/@storybook/angular/node_modules/@storybook/manager/static at /var/folders/rg/xzthppj12yg94g8qtnsd1byr0000gp/T/chromatic--8302-XQBYFYA1Y9b8/sb-common-assets
+info => Copying static files: /Users/metro.ethomas1/Documents/ProgrammingPractice/StorybookPractice/taskbox/node_modules/@storybook/angular/node_modules/@storybook/manager/static at /var/folders/rg/xzthppj12yg94g8qtnsd1byr0000gp/T/chromatic--11189-hv4ork03f3Jo/sb-common-assets
 info Using Babel compiler
 info Addon-docs: using MDX2
 info => Using implicit CSS loaders
@@ -270,10 +270,10 @@ WARN   947.149715dd.iframe.bundle.js (878 KiB)
 WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
 WARN Entrypoints:
 WARN   main (2.64 MiB)
-WARN       runtime~main.cbcd3382.iframe.bundle.js
+WARN       runtime~main.a6ca2dbe.iframe.bundle.js
 WARN       117.0821f40f.iframe.bundle.js
 WARN       main.72b66c21c40c5a5549a1.css
-WARN       main.dd49af7c.iframe.bundle.js
+WARN       main.3d14d2b4.iframe.bundle.js
 WARN 
-info => Preview built (4.23 min)
-info => Output directory: /var/folders/rg/xzthppj12yg94g8qtnsd1byr0000gp/T/chromatic--8302-XQBYFYA1Y9b8
+info => Preview built (2.38 min)
+info => Output directory: /var/folders/rg/xzthppj12yg94g8qtnsd1byr0000gp/T/chromatic--11189-hv4ork03f3Jo
